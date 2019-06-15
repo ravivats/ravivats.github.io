@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The essentials
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ravi Vats.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am currently working as a **Technology Associate** in the Institutional Securities Tech (IST) division at **Morgan Stanley**. I work as a **Backend Developer** and **Big Data Engineer** in the Internal Trade Report Applications team. 
 
-What else do you need?
+I have previously interned in the same division and team at Morgan Stanley as a Technology Analyst. Earlier during my junior year in college, I have also worked at **Bosch** as a **Research and Development Intern**.
 
-### my history
+Academically, I am a **Computer Science and Engineering Graduate** from [Ramaiah Institute of Technology, Bangalore](http://www.msrit.edu/). 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My areas of interest are domains like 
+- Deep Learning, ML
+- Algorithms & Data Structures
+- Scalable & Concurrent Systems
+- Data Analysis & Visualization.
+
+GitHub: https://github.com/ravivats/ 
+
+### Detailed Work History:
+
