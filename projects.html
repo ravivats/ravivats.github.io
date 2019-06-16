@@ -6,6 +6,8 @@ use-site-title: true
 ---
 
 <h3>Details of my project are given below: </h3>
+<h2 class="post-title">Paginator posts size: {{ paginator.posts.size }}</h2>
+<h2 class="post-title">Site posts size: {{ site.posts.size }}</h2>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
