@@ -27,7 +27,7 @@ navbar-links:
   Projects: "projects"
   Blog: "https://ravivats.github.io"
   About Me: "aboutme"
-  Resume: "https://ravivats.github.io/resume_ravivats.pdf"
+  Resume/CV: "https://ravivats.github.io/resume_ravivats.pdf"
   # Commenting out resources
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -82,7 +82,7 @@ social-network-links:
   linkedin: ravi-vats
   instagram: ravivats_
   twitter: ravivats_
-  rss: true
+  rss: false
   
 #  reddit: yourname
 #  google-plus: +DeanAttali
