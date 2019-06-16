@@ -3,7 +3,7 @@ layout: post
 title: DIY Terminal/Shell
 subtitle: How to code your own terminal from scratch
 tags: [project]
-isProject: 1
+postType: 1
 ---
 
 In this post, I would describe how one can code a terminal/shell from scratch. 

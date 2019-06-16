@@ -5,9 +5,13 @@ subtitle: Ravi's portfolio website and personal blog. This is where I tell the w
 use-site-title: true
 ---
 
+<!--postType == 0 -> blog posts-->
+<!--postType == 1 -> project posts-->
+<!--postType == 2 -> work posts-->
+
 <div class="posts-list">
   {% for post in paginator.posts %}
-  {% if post.isProject != 1 %}
+  {% if post.postType == 0 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
