@@ -6,11 +6,11 @@ use-site-title: true
 ---
 
 <h3>Details of my project are given below: </h3>
-<h2 class="post-title">Paginator posts size: {{ paginator.posts.size }}</h2>
-<h2 class="post-title">Site posts size: {{ site.posts.size }}</h2>
+<!-- <h2 class="post-title">Paginator posts size: {{ paginator.posts.size }}</h2>
+<h2 class="post-title">Site posts size: {{ site.posts.size }}</h2> -->
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   {% if post.isProject >= 1 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
@@ -61,18 +61,3 @@ use-site-title: true
    {% endif %} 
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
