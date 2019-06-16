@@ -12,7 +12,7 @@ I have previously interned in the same division and team at Morgan Stanley as a 
 
 Academically, I am a **Computer Science and Engineering Graduate** from [Ramaiah Institute of Technology, Bangalore](http://www.msrit.edu/). 
 
-My areas of interest are domains like 
+My areas of interest are domains like: 
 - Deep Learning, ML
 - Algorithms & Data Structures
 - Scalable & Concurrent Systems
