@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Welcome!
-subtitle: Ravi's personal blog and portfolio website. This is where I tell the world way too much about me.
+subtitle: Ravi's portfolio website and personal blog. This is where I tell the world way too much about me.
 use-site-title: true
 ---
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  {% if post.isProject < 1 %}
+  {% if post.isProject != 1 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>

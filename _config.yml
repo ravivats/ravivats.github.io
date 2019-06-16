@@ -17,15 +17,17 @@ baseurl: ""
 title: Ravi Vats
 
 # Short description of your site
-description: Personal blog and portfolio website
+description: Portfolio website and personal blog
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://ravivats.github.io"
+  Work: "work"
   Projects: "projects"
+  Blog: "https://ravivats.github.io"
   About Me: "aboutme"
+  Resume: "https://ravivats.github.io/resume_ravivats.pdf"
   # Commenting out resources
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

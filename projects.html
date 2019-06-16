@@ -1,17 +1,13 @@
 ---
 layout: page
 title: Projects
-subtitle: Side projects that I have been working on
+subtitle: Side projects that I have worked on
 use-site-title: true
 ---
 
-<h3>Details of my project are given below: </h3>
-<!-- <h2 class="post-title">Paginator posts size: {{ paginator.posts.size }}</h2>
-<h2 class="post-title">Site posts size: {{ site.posts.size }}</h2> -->
-
 <div class="posts-list">
   {% for post in site.posts %}
-  {% if post.isProject >= 1 %}
+  {% if post.isProject <= 1 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
