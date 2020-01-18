@@ -12,6 +12,6 @@ I worked at Yoska as a Mobile App Development Intern after my fourth semester in
 I worked on the development of company's Android app named 'Yoska Coach', which gives a coaches a medium to monitor and train their athletes while seamlessly interacting with them and giving them suggestions about their current performance.
 
 Areas that I worked on were:
-a. Image Downloading and Caching
-b. Profile Activities of Coach, Athlete
-c. Call and Message Functionalities
+1. Image Downloading and Caching
+2. Profile Activities of Coach, Athlete
+3. Call and Message Functionalities
