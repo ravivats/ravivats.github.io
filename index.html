@@ -10,7 +10,7 @@ use-site-title: true
 <!--postType == 2 -> work posts-->
 
 <div class="posts-list">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   {% if post.postType == 0 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
