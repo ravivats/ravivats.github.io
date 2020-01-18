@@ -11,7 +11,7 @@ use-site-title: true
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  {% if post.postType == 0 || post.postType == 1 %}
+  {% if post.postType == 0 or post.postType == 1 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
