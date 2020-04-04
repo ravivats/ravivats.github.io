@@ -9,7 +9,7 @@ postType: 0
 
 # HeadStart ML - Part #1 - Distilled Summary of ML
 
-[headstart-ml](../img/headstart-ml.png)
+![headstart-ml](../img/headstart-ml.png)
 
 ## How is ML different from Traditional Programming?
 
