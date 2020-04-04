@@ -2,12 +2,14 @@
 layout: post
 title: HeadStart ML - Part 1 - Distilled Summary of ML
 subtitle: Introduction to current state of ML and all its important concepts
-bigimg: /img/headstart-ml.png
+image: /img/headstart-ml.png
 tags: [machine-learning, blog]
 postType: 0
 ---
 
 # HeadStart ML - Part #1 - Distilled Summary of ML
+
+[headstart-ml](../img/headstart-ml.png)
 
 ## How is ML different from Traditional Programming?
 
