@@ -6,7 +6,7 @@ subtitle: Ravi Vats -  Software Engineer | Computer Science Graduate | Machine L
 
 ### Introduction
 
-I am currently working as a **Software Engineer, Backend** at [Grab](https://www.grab.com/sg/) in its GrabFood division. 
+I am currently working as a **Software Engineer, Backend** at [Grab](https://www.grab.com/sg/) in its GrabFood division on creating & maintaining various micro-services to manage a food order from creation to completion for a scale of 1 Million+ orders per day. 
 
 In the past, I have worked as a **Technology Associate** in the Institutional Securities Tech (IST) division at [Morgan Stanley](https://www.morganstanley.com/). My role was **Backend Development** and **Big Data Engineering** in the Internal Trade Report Applications team. 
 
@@ -23,6 +23,9 @@ GitHub: https://github.com/ravivats/
 ### Work Experience
 
 My detailed work history can be found [here](https://ravivats.github.io/work).
+
+### Blog
+My blog posts on various topics like tech, finance etc. can be found [here](https://ravivats.github.io).
 
 ### Portfolio
 
