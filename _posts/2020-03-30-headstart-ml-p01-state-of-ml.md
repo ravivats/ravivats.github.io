@@ -7,9 +7,7 @@ tags: [machine-learning, blog]
 postType: 0
 ---
 
-# HeadStart ML - Part #1 - Distilled Summary of ML
-
-![headstart-ml](../img/headstart-ml.png)
+![headstart-ml](../img/headstart-ml.png){: .center-block :}
 
 ## How is ML different from Traditional Programming?
 
@@ -113,10 +111,11 @@ One example of classification algorithms is [Logistic Regression](https://en.wik
 Although there are many issues with the predictions made with ML models, we are going to focus on two broad types:
 Example of underfitting, just-right fit, and overfitting for a Linear Regression model predicting housing prices.
 
-![headstart-ml-underfit-overfit-example](../img/headstart-ml-underfit-overfit-example.png)
+![headstart-ml-underfit-overfit-example](../img/headstart-ml-underfit-overfit-example.png){: .center-block :}
 
 Example of underfitting, just-right fit, and overfitting for a Linear Regression model predicting housing prices. 
-Source: Publicly Open MOOC [Machine Learning by Stanford from Coursera](https://www.coursera.org/learn/machine-learning)
+
+**Source**: Publicly Open MOOC [Machine Learning by Stanford from Coursera](https://www.coursera.org/learn/machine-learning)
 
 ### Underfitting
 
