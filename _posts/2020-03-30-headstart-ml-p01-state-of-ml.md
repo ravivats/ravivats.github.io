@@ -158,7 +158,9 @@ From here on, you can learn further about the above-presented topics from:
 
 Thanks for reading till the last bit!
 
-I am Ravi, a Software Engineer, and Computer Science and Engineering Graduate from Ramaiah Institute of Technology, Bangalore. My areas of interest are domains like Deep Learning, ML, Algorithms & Data Structures, Scalable & Concurrent Systems, Data Analysis & Visualization. [Here](https://github.com/ravivats) is my GitHub handle.
+I am Ravi Vats, a Software Engineer at [Grab](https://www.linkedin.com/company/grabapp/life/4ca32942-1bfb-446c-aecb-94249a6d6702/), and Computer Science and Engineering Graduate from [Ramaiah Institute of Technology](http://www.msrit.edu/), Bangalore.
+
+My areas of interest are domains like Deep Learning, ML, Algorithms & Data Structures, Scalable & Concurrent Systems, Data Analysis & Visualization. [Here](https://github.com/ravivats) is my GitHub handle.
 
 You can connect with me on my [LinkedIn](https://www.linkedin.com/in/ravi-vats/) profile.
 
