@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Sample blog
+subtitle: To show use of markdown for blogs, project explanations etc.
+gh-repo: ravivats/ds-algo-interview-cookbook
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
@@ -15,7 +15,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 ## Here is a secondary heading
 
-Here's a useless table:
+Here's a sample table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -32,6 +32,11 @@ How about a yummy crepe?
 It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+
+Here is a normal highlighted text:
+
+>Note:This is how you highlight a separate note
+>that is maybe important for blog summary.
 
 Here's a code chunk:
 
