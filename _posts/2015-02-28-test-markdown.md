@@ -35,7 +35,7 @@ It can also be centered!
 
 Here is a normal highlighted text:
 
->Note:This is how you highlight a separate note
+>Note: This is how you highlight a separate note
 >that is maybe important for blog summary.
 
 Here's a code chunk:

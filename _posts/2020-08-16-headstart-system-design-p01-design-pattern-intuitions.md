@@ -55,9 +55,12 @@ Suppose, you have a DB connection to initialize, and you want this DB connection
 
 >In such scenarios where, not only do you want the same type of object to be returned, but you also want it to have a given state always, and for it to be a **_static method call_** to get that object, then you use the **_Singleton_** pattern.
 
+>**_Additional feature_**: _A thread safe singleton can be created so that singleton property is maintained even in multi-threaded environment._ 
+>_To make a singleton class thread-safe,_ **_getInstance()_** _method is made synchronized so that one one thread can access it at a time._
+
 ![headstart-system-design-singleton-design-pattern-example](../img/2020-08-16/singleton-design-pattern.png){: .center-block :}
 
-Singleton Design Pattern in Java. Source: [Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
+Singleton Design Pattern supporting multi-threading in Java. Source: [Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
 
 ## [Mixins](https://en.wikipedia.org/wiki/Mixin)
 
