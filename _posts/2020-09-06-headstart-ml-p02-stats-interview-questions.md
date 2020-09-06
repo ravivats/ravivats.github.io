@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HeadStart ML - Part 2 - Statistics and Probability standard interview questions
+title: HeadStart ML - Part 2 - Statistics and Probability FAANG interview questions
 subtitle: Some statistics and probability questions asked for SDE, Data Science roles and their solutions.
 image: /img/headstart-ml.png
 tags: [machine-learning, statistics-probability, blog]
@@ -16,7 +16,7 @@ So, statistics & probability become important concepts and hence, candidates int
 
 Even if you are not in these roles, and in core Software Engineering domain instead, still statistics, probability, and SQL remain the core concepts for beginning to understand any dataset and derive any meaning or predictions out of it, or write any computer logic around it.
 
-Let us look at some of interesting questions that were asked in interviews for these roles:
+Let us look at some of interesting questions that were asked in FAANG interviews for these roles:
 
 1. Amy and Brad take turns in rolling a fair six-sided die. Whoever rolls a "6" first wins the game. Amy has the first turn. What is the probability that Amy wins?
     
