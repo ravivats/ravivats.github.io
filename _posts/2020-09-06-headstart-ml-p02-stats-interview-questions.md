@@ -57,7 +57,10 @@ Let us look at some of interesting questions that were asked in FAANG interviews
 
     As the gender ratio remains approx. 50% as the no. of couples becomes larger and larger than 50. We can conclude that this practice doesn't have an impact on it.
 
-    > ***Intuition/Short way to solution***: The ratio would still be 50% because the probability of a boy or a girl being born is just related to the couple themselves and it is not related to (in other words, is *disjoint* to) any separate external event of weird rules being followed in society.
+    > ***Intuition/Short way to solution***: The ratio would still be 50% because the probability of a boy or a girl being born is just related to the couple themselves and it is not related to (in other words, is **disjoint** to) any separate external event of weird rules being followed in society.
+    >In other words, the birth of a boy or a girl to any couple is an **independent** event each time it occurs. 
+    > ***Explanation***: *the probability of a girl or a boy being born to a couple doesn't get influenced by whether the couple had 'x' number of boy or girl child before that. Hence, it always stays approximately equal, at 50% for both the genders.*
+    > The only way in which gender ratio can be externally influenced, is when someone starts taking away babies of a given gender away from the village, which is not reported in the problem.
 
 3. Four people A, B, C & D get in a lift on the ground floor. Each of them has a choice of getting down on floors 1,2,3 & 4. What is the probability that all of them come out on different floors?
     
