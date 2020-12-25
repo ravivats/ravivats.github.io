@@ -1,9 +1,9 @@
 ---
 layout: post
-title: HeadStart System Design - Part 1 - Design Pattern Intuitions
-subtitle: Intuitions about which Design pattern to use based on the input you provide and the state and functionality you want
+title: HeadStart System Design - Part 2 - My AWS Certified Solutions Architect Associate Journey
+subtitle: How to prepare for the exam and the things learned through it
 image: /img/headstart-system-design.png
-tags: [system-design, design-patterns, blog]
+tags: [system-design, aws-certification, cloud-services, blog]
 postType: 0
 ---
 
@@ -76,7 +76,7 @@ Apart from learning in detail about the AWS services when doing the certificatio
 
 Most of these concepts are cloud-platform agnostic and help build a foundational understanding of system design, things to consider while designing a new solution, or suite of microservices, or any other web/cloud components talking to one another.
 
-These concepts are wrapped around general cloud platform agnostic (is for any cloud provider Like AWS, Azure, Google Cloud , etc.) questions. For example:
+**These concepts are wrapped around general cloud platform agnostic (is for any cloud provider Like AWS, Azure, Google Cloud , etc.) questions. For example:**
 
 1. What is meant by scalability? (i.e. Horizontal scalability vs vertical scalability, What is auto-scaling, on which metrics can we scale in or out (CPU %, Network in, Network out, etc.)
 2. What are the different ways of storing data? Structured (SQL), semi-structured (NoSQL, JSON), unstructured (Files in NFS, tapes, etc.)
