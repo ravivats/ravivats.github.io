@@ -1,0 +1,12 @@
+title: "Ravi Vats | Code & Reflections"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+author:
+  name: "Ravi Vats"
+  avatar: "/assets/images/profile.png"
+
+# More config: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
