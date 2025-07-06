@@ -119,7 +119,10 @@ analytics:
 author:
   name             : "Ravi Vats"
   avatar           : "/assets/images/avatar-new.png"
-  bio              : "🟦 **Self-Praise:** I am an **amazing** person.\n7+ years in Software Engineering & Machine Learning. Building cool stuff, documenting projects & ideas, learning as I go."
+  bio              : |
+    🌟 **Self-Praise:** I am an **amazing** person.  
+    7+ years in Software Engineering & Machine Learning.  
+    Building cool stuff, documenting projects & ideas, learning as I go.
   location         : "Singapore"
   email            : 
   links:
