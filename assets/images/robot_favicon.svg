@@ -1,0 +1,46 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Robot Head -->
+  <rect x="6" y="8" width="20" height="16" fill="#7c3aed"/>
+  <rect x="8" y="6" width="16" height="4" fill="#7c3aed"/>
+  
+  <!-- Antenna -->
+  <rect x="15" y="4" width="2" height="4" fill="#6b21a8"/>
+  <rect x="14" y="2" width="4" height="2" fill="#34d399"/>
+  
+  <!-- Eyes -->
+  <rect x="10" y="12" width="4" height="4" fill="#34d399"/>
+  <rect x="18" y="12" width="4" height="4" fill="#34d399"/>
+  <rect x="11" y="13" width="2" height="2" fill="#1f2937"/>
+  <rect x="19" y="13" width="2" height="2" fill="#1f2937"/>
+  
+  <!-- Mouth -->
+  <rect x="12" y="18" width="8" height="2" fill="#1f2937"/>
+  <rect x="14" y="18" width="2" height="1" fill="#34d399"/>
+  <rect x="16" y="18" width="2" height="1" fill="#34d399"/>
+  
+  <!-- Body -->
+  <rect x="8" y="24" width="16" height="6" fill="#dc2626"/>
+  
+  <!-- Chest panel -->
+  <rect x="12" y="26" width="8" height="2" fill="#34d399"/>
+  
+  <!-- Arms -->
+  <rect x="4" y="26" width="4" height="2" fill="#f97316"/>
+  <rect x="24" y="26" width="4" height="2" fill="#f97316"/>
+  
+  <!-- Hands -->
+  <rect x="2" y="28" width="2" height="2" fill="#ea580c"/>
+  <rect x="28" y="28" width="2" height="2" fill="#ea580c"/>
+  
+  <!-- Legs -->
+  <rect x="10" y="30" width="3" height="2" fill="#6b21a8"/>
+  <rect x="19" y="30" width="3" height="2" fill="#6b21a8"/>
+  
+  <!-- Head border highlights -->
+  <rect x="6" y="8" width="20" height="1" fill="#8b5cf6"/>
+  <rect x="6" y="8" width="1" height="16" fill="#8b5cf6"/>
+  
+  <!-- Body highlights -->
+  <rect x="8" y="24" width="16" height="1" fill="#ef4444"/>
+  <rect x="8" y="24" width="1" height="6" fill="#ef4444"/>
+</svg>
