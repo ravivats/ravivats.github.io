@@ -120,10 +120,10 @@ author:
   name             : "Ravi Vats"
   avatar           : "/assets/images/avatar-new.png"
   bio              : |
-    🌟 **Self-Praise:** I am an **amazing** person.  
-    7+ years in Software Engineering 
-    and Machine Learning.  
-    Building cool stuff, documenting projects & ideas, learning as I go.
+    7+ years building scalable backend services and AI systems; from transformers and RL to production-grade LLM applications.
+    Previously built high-traffic Go APIs with rate limiting, caching, and performance optimizations. 
+    Currently focused on RAG systems and LLM fine-tuning pipelines.
+    I write about the problems I'm solving and the patterns I discover along the way.
   location         : "Singapore"
   email            : 
   links:
